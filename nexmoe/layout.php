@@ -15,7 +15,7 @@
 			<a href="/"><img class="avatar" src="//q.qlogo.cn/g?b=qq&nk=945203919&s=100"/></a>
 			<div class="navRight">
 				<ul class="navul">
-					<li class="navli"><a href="//zhebk.cn" target="_blank">博客</a></li>
+					<li class="navli"><a href="//pan.520648.xyz" target="_blank">首页</a></li>
 					<li class="navli"><a href="/login">登陆</a></li>
 				</ul>
 				<div class="icon"></div>

@@ -4,9 +4,9 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
 	<title><?php e(config('site_name'));?> - 私人云服务</title>
-	<link rel="shortcut icon" href="//yun.zhebk.cn/theme/favicon.ico">
+	<link rel="shortcut icon" href="//pan.520648.xyz/theme/favicon.ico">
 	<link rel="stylesheet" href="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/css/mdui.css">
-	<link rel="stylesheet" href="//yun.zhebk.cn/theme/style.css">
+	<link rel="stylesheet" href="//pan.520648.xyz/theme/style.css">
 	<script src="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/js/mdui.min.js"></script>
 </head>
 <body class="mdui-theme-primary-blue-grey mdui-theme-accent-blue">
